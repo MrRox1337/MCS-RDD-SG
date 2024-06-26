@@ -10,7 +10,10 @@ Additional resources:
 	
 Week 01 Submission:
 
-	Review 3_led_pot_uno1.ino/png and pot_servo_sonic_uno1.ino/png files for code inspiration and create a program which
+	Review 3_led_pot_uno1.ino/png and pot_servo_sonic_uno1.ino/png files for code inspiration and create a program that
 	utilizes an ultrasonic HC-SR04 sensor to cause a servo to set an angle based on the distance of an object from HC-SR04
-	between 25cm and 100cm. Additionally, 3 leds will indicate the proximity of the object such that all three LEDs will be on
-	when the object is under 25cm and no LEDs are on when the object is beyond 100cm.
+	between 25cm and 100cm. Additionally, 3 LEDs will indicate the proximity of the object such that all three LEDs will be on
+	when the object is under 25cm, and no LEDs are on when the object is beyond 100cm.
+
+When you complete the code, please create a public repository with MCS-RDD-SG and upload a folder called Week 01 Post containing
+a .png for your circuit and a .ino file containing your code.
