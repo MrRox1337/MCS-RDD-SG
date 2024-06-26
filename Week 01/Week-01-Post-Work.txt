@@ -2,6 +2,10 @@ Middlesex Computing Society
 Robotics Development and Design Study Group
 Week 1 Post
 
+Study Group Slides:
+
+	https://gamma.app/docs/Discover-the-World-of-Robotics-rim92nr6vjr3j01
+
 Additional resources:
 
 	1) Ultrasonic Sensor HC-SR04 Tutorial: https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
