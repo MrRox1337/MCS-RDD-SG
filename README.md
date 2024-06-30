@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrRox1337/](https://github.com/MrRox1337/)
 
-- 📝 I regularly post my work on [my Instagram https://www.instagram.com/mrrox1337/](my Instagram https://www.instagram.com/mrrox1337/)
+- 📝 I regularly post my work on [my Instagram](https://www.instagram.com/mrrox1337/)
 
 - 💬 Ask me about **SolidWorks and 3D Printing**
 
