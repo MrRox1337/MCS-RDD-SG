@@ -1,11 +1,13 @@
 <h1 align="center">Middlesex Computing Society Robotics Development and Design</h1>
 <h3 align="center">6-7 week study group for development and design of robotics solution</h3>
 
-- 🔭 I’m currently working on **Week 02**
+- 🔭 I’m currently working on **Week 03**
 
 - 🌱 I’m currently learning **Python, Robotis ROS2, and Fusion 360**
 
-- 👯 The last week's content can be found in [Week 01](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Week%2001)
+- 👯 The first week's content can be found in [Week 01](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Week%2001)
+
+- 👯 The second week's content can be found in [Week 02](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Week%2002)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrRox1337/](https://github.com/MrRox1337/)
 
