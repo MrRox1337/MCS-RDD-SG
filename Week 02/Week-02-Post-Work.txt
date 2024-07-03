@@ -1,0 +1,23 @@
+Middlesex Computing Society
+Robotics Development and Design Study Group
+Week 2 Post
+
+Study Group Slides:
+
+	https://gamma.app/docs/Week-2-Sensors-and-Actuators-48fw8pcwa9p5ltf
+
+Additional resources:
+
+	1) Better Circuit Simulation Website with Documentation: https://wokwi.com/arduino
+
+	2) DC Motor with Rotary Encoder tutorial: https://youtu.be/FXV1nD7czcQ
+	
+Week 01 Submission:
+
+	Review week_1_post_demo1.ino and motors_demonstration_uno1.ino and related files to make the motor
+        move forward or backward and keep an object between 30 cm and 50 cm. If the object is beyond 50 cm
+        the motor will spin clockwise and if the object is less than 30 cm from the sensor the motors will
+        move backwards. 
+
+When you complete the code, please create a public repository with MCS-RDD-SG and upload a folder called Week 02 Post containing
+a .png for your circuit and a .ino file for your code.
