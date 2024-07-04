@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **am3971@live.mdx.ac.uk**
 
-- 📄 Know about my experiences [app.rezi.ai/s/erZJmjWCsnd43XGUwG83](app.rezi.ai/s/erZJmjWCsnd43XGUwG83)
+- 📄 Know about [my experiences](https://app.rezi.ai/s/erZJmjWCsnd43XGUwG83)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
