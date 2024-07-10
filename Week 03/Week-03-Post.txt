@@ -6,6 +6,10 @@ Study Group Slides:
 
 	https://gamma.app/docs/3D-Printing-and-CAD-for-Robotics-re27v3c9mmo8uzi
 
+Study Group OnShape Project:
+
+	https://cad.onshape.com/documents/bdabff2d1e2b01c1bfd0b27f/w/31839199a18b041822e5ce52/e/1ddf07336ffbc4baed996b37?renderMode=0&uiState=668ea2a795402f720f406fa3
+
 Additional resources:
 
 	1) CAD Tutorials Youtube: https://www.youtube.com/@CADCAMTUTORIALBYMAHTABALAM
