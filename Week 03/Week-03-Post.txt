@@ -1,0 +1,28 @@
+Middlesex Computing Society
+Robotics Development and Design Study Group
+Week 3 Post
+
+Study Group Slides:
+
+	https://gamma.app/docs/3D-Printing-and-CAD-for-Robotics-re27v3c9mmo8uzi
+
+Additional resources:
+
+	1) CAD Tutorials Youtube: https://www.youtube.com/@CADCAMTUTORIALBYMAHTABALAM
+
+	2) 3D Printing Tips: https://www.youtube.com/watch?v=MCcFMDv_4eo&list=PLkUv8_afCbJ9zfaZxqL4AHBrGHqTaU9lo&pp=iAQB
+        
+	3) 3D Printer Optimization: https://teachingtechyt.github.io/calibration.html
+
+	4) CAD Certification: https://learn.onshape.com/learning-paths/introduction-to-cad
+
+	5) High Precision CAD Models: https://grabcad.com/library
+	
+Week 03 Submission:
+
+	Visit link #5, GrabCAD.com, and use their resources to create 6 rods, 3 rods are 2020 profile
+	aluminum extrusions and the other 3 are 2040 profile aluminum extrusions. For both profiles
+	make a 100mm, 150mm, and 200mm length rod on OnShape and export all 6 as STL or 3MF file format.
+
+When you complete the code, please create a public repository with MCS-RDD-SG and upload a folder called Week 03 Post containing
+your STL or 3MF models.
