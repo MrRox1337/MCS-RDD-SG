@@ -1,0 +1,22 @@
+Middlesex Computing Society
+Robotics Development and Design Study Group
+Week 4 Post
+
+Study Group Slides:
+
+	https://gamma.app/docs/Mastering-the-Art-of-Soldering-and-Electronic-Assembly-niigw7dntagn5j2
+
+Additional resources:
+
+	1) 10 STUPID ERRORS To AVOID in Soldering and TIPS: https://youtu.be/Fp37DPZVdRI
+
+	2) How to Solder properly || Through-hole (THT) & Surface-mount (SMD): https://youtu.be/VxMV6wGS3NY
+        
+	3) SMD Soldering Tutorial | Guide | Tools | Tecniques | Stencil: https://youtu.be/fYInlAmPnGo
+	
+Week 03 Submission:
+
+	Visit the 3 links above and watch all three videos. Then go to https://forms.gle/tQiWfKGsaCHTUz3c9 and complete the quiz.
+
+When you complete the quiz, take a screenshot and push it to github in Week 04 and submit the link to the picture in the submission
+form.
