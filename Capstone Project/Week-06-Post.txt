@@ -1,0 +1,20 @@
+Middlesex Computing Society
+Robotics Development and Design Study Group
+Week 6 Post
+
+Study Group Slides:
+
+	https://gamma.app/docs/Robotics-Development-and-Design-Study-Group-Week-6-Final-Week-k7isfjptvwg7335
+
+Additional resources:
+
+	1) Power Draw Sheet: https://docs.google.com/spreadsheets/d/1Av84P66AvkPm0dsHWG1km8QkAuvX3Vg7dhMH1gvCXMY/edit?usp=sharing
+
+	2) Week 05 Gantt Chart and Power Draw ppt: https://gamma.app/docs/Robotics-Development-and-Design-Logistics-and-Hidden-Costs-dt3vdyg7jfe4xr4
+	
+Capstone Submission:
+	
+	Detailed submission deadlines are mentioned in the Study Group Slides for Capstone Project.
+
+When you complete each step, please commit your files to github and submit the link to the page on the form mentioned in the 
+WhatsApp study group description.
