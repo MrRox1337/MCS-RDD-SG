@@ -13,7 +13,7 @@
 
 - 👯 The fourth week's content can be found in [Week 04](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Week%2004)
 
-- 👯 The Capstone Project content can be found in [Week 06](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Week%2006)
+- 👯 The Capstone Project content can be found in [Week 06](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Capstone-Project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrRox1337/](https://github.com/MrRox1337/)
 
