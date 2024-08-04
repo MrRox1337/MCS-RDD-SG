@@ -1,9 +1,9 @@
 <h1 align="center">Middlesex Computing Society Robotics Development and Design</h1>
 <h3 align="center">6-7 week study group for development and design of robotics solution</h3>
 
-- 🔭 I’m currently working on **Week 05**
+- 🔭 The completed weekly content can be found below
 
-- 🌱 I’m currently learning **Raspberry Pi Pico, Python, Robotis ROS2 Foxy, and OnShape**
+- 🌱 I’m currently learning **Raspberry Pi Pico, Python, and Robotis ROS2 Foxy**
 
 - 👯 The first week's content can be found in [Week 01](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Week%2001)
 
@@ -13,11 +13,13 @@
 
 - 👯 The fourth week's content can be found in [Week 04](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Week%2004)
 
+- 👯 The Capstone Project content can be found in [Week 06](https://github.com/MrRox1337/MCS-RDD-SG/tree/main/Week%2006)
+
 - 👨‍💻 All of my projects are available at [https://github.com/MrRox1337/](https://github.com/MrRox1337/)
 
 - 📝 I regularly post my work on [my Instagram](https://www.instagram.com/mrrox1337/)
 
-- 💬 Ask me about **SolidWorks and 3D Printing**
+- 💬 Ask me about **SolidWorks, OnShape, 3D Printing**
 
 - 📫 How to reach me **am3971@live.mdx.ac.uk**
 
